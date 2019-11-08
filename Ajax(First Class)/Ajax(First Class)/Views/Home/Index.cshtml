@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<div style="font-family:Arial">
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+
+
+@Ajax.ActionLink("ALL","ALL",
+new AjaxOptions
+{
+    HttpMethod = "GET",
+    UpdateTargetId = "divStudents",
+    InsertionMode = InsertionMode.Replace
+})
+
+<span style="color:blue"></span>
+
+@Ajax.ActionLink("Top3","Top3",
+    new AjaxOptions
+    {
+        HttpMethod = "GET",
+        UpdateTargetId = "divStudents",
+        InsertionMode = InsertionMode.Replace
+    })
+
+<span style="color:blue"></span>
+
+@Ajax.ActionLink("Bottom3", "Bottom3",
+    new AjaxOptions
+    {
+        HttpMethod = "GET",
+        UpdateTargetId = "divStudents",
+        InsertionMode = InsertionMode.Replace
+    })
+
+<br /><br />
+
+<div id="divStudents" class="container">
+    </div>
+</div>

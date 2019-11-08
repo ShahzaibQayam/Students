@@ -1,0 +1,69 @@
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\roslyn\csc.exe
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\roslyn\System.Collections.Immutable.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\roslyn\vbc.exe
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\roslyn\VBCSCompiler.exe
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\roslyn\VBCSCompiler.exe.config
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Ajax(First Class).dll.config
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Ajax(First Class).dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Ajax(First Class).pdb
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Antlr3.Runtime.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\EntityFramework.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\EntityFramework.SqlServer.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Microsoft.Owin.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Microsoft.Owin.Security.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Microsoft.Owin.Security.Google.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Microsoft.Web.Infrastructure.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Newtonsoft.Json.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Owin.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\System.Web.Helpers.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\System.Web.Mvc.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\System.Web.Optimization.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\System.Web.Razor.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\System.Web.WebPages.Deployment.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\System.Web.WebPages.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\System.Web.WebPages.Razor.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\WebGrease.dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\System.Web.Helpers.xml
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\System.Web.Mvc.xml
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\System.Web.Optimization.xml
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\System.Web.Razor.xml
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\System.Web.WebPages.xml
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\System.Web.WebPages.Deployment.xml
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\System.Web.WebPages.Razor.xml
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Antlr3.Runtime.pdb
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Newtonsoft.Json.xml
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\EntityFramework.xml
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\EntityFramework.SqlServer.xml
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Microsoft.Owin.xml
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Microsoft.Owin.Security.xml
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Microsoft.Owin.Security.Google.xml
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\obj\Debug\Ajax(First Class).dll
+c:\users\asp.aptechnk\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\obj\Debug\Ajax(First Class).pdb
+C:\Users\asp.APTECHNK\documents\visual studio 2015\Projects\Ajax(First Class)\Ajax(First Class)\obj\Debug\Ajax(First Class).csprojResolveAssemblyReference.cache
